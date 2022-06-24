@@ -8,5 +8,3 @@ Renewable Energy Integration Using Two Stage Cascaded Switched Diode Multilevel 
 
 
 ![Twitter followers](https://img.shields.io/twitter/follow/potlamohansai?style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/potlamohansai?style=social)
